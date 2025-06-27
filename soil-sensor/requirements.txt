@@ -1,0 +1,4 @@
+Flask==2.3.3
+adafruit-circuitpython-ads1x15==2.2.21
+adafruit-blinka==8.22.2
+pytz==2023.3
